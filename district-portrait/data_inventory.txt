@@ -1,0 +1,39 @@
+Airports.csv
+4988 public airports; HIFLD; 2018
+
+all_starbucks_kaggle
+13311 Starbucks in US; [chrismeller](https://github.com/chrismeller/StarbucksScraper/blob/master/LICENSE); 2017
+
+Amtrak_Stations
+530 stations; http://osav-usdot.opendata.arcgis.com/datasets/3e9daf681b154fb19372044f4d52941a_0; 2018
+
+CD_farm_2012_USDA.xlsx
+COUNT BY 2012 CD; https://www.nass.usda.gov/Publications/AgCensus/2012/Online_Resources/Congressional_District_Profiles/index.php; 2012
+
+Colleges_and_Universities_HIFLD.csv
+7520; https://hifld-geoplatform.opendata.arcgis.com/datasets/colleges-and-universities; 2017
+
+Fortune_500_Corporate_Headquarters_HIFLD.csv
+500; https://hifld-geoplatform.opendata.arcgis.com/datasets/fortune-500-corporate-headquarters; 2017
+
+Hospitals_HIFLD
+7570; https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals; 2018
+
+Major_Sport_Venues_HIFLD.csv
+784; https://hifld-geoplatform.opendata.arcgis.com/datasets/major-sport-venues; 2016
+
+Mobile_Home_Parks_HIFLD.csv
+45642; https://hifld-geoplatform.opendata.arcgis.com/datasets/mobile-home-parks; 2018
+
+museums_imls_gov
+33072; https://data.imls.gov/Museum-Universe-Data-File/Museum-Universe-Data-File-FY-2015-Q3/ku5e-zr2b; 2015
+
+NPR_Lat_Long_breweries.xlsx
+NEED TO REDO ANALYSIS ON THIS; 4503; Brewers Assc; 2018
+
+sonic
+
+
+State_Fairgrounds_HIFLD.csv
+74; https://hifld-geoplatform.opendata.arcgis.com/datasets/efd81eb363aa4e979662f50ab00ec19f_0; 2018
+

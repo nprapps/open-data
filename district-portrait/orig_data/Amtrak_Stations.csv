@@ -1,0 +1,530 @@
+﻿rm,Y,OBJECTID,STNCODE,STNNAME,CITY2,STATE,STFIPS
+-76.16326,39.508447,186,ABE,"Aberdeen, Maryland",Aberdeen,MD,24
+-106.647975,35.082061,107,ABQ,"Albuquerque, New Mexico",Albuquerque,NM,35
+-121.816024,38.0177,179,ACA,"Antioch-Pittsburg, California",Antioch-Pittsburg,CA,6
+,,519,ACD,"Arcadia, Missouri",Arcadia,MO,29
+-97.12551,34.172465,377,ADM,"Ardmore, Oklahoma",Ardmore,OK,40
+-82.639603,38.480875,482,AKY,"Ashland, Kentucky",Ashland,KY,21
+-73.741147,42.641029,9,ALB,"Albany/Rensselaer, New York",Albany-Rensselaer,NY,36
+-81.092904,40.921275,416,ALC,"Alliance, Ohio",Alliance,OH,39
+-80.644856,37.724277,516,ALD,"Alderson, West Virginia",Alderson,WV,54
+-84.755814,42.247196,499,ALI,"Albion, Michigan",Albion,MI,26
+-90.136276,38.904723,128,ALN,"Alton, Illinois",Alton,IL,17
+-103.661513,30.357302,424,ALP,"Alpine, Texas",Alpine,TX,48
+-78.40162,40.514475,234,ALT,"Altoona, Pennsylvania",Altoona,PA,42
+-77.06233,38.806503,53,ALX,"Alexandria, Virginia",Alexandria,VA,51
+-123.102774,44.630464,192,ALY,"Albany, Oregon",Albany,OR,41
+-74.2195,42.953719,335,AMS,"Amsterdam, New York",Amsterdam,NY,36
+-117.877308,33.803803,43,ANA,"Anaheim, California",Anaheim,CA,6
+-83.743154,42.287692,76,ARB,"Ann Arbor, Michigan",Ann Arbor,MI,26
+-75.290399,40.008278,114,ARD,"Ardmore, Pennsylvania",Ardmore,PA,42
+-93.053284,34.113919,509,ARK,"Arkadelphia, Arkansas",Arkadelphia,AR,5
+-121.083187,38.903638,273,ARN,"Auburn, California",Auburn,CA,6
+-77.481304,37.759596,212,ASD,"Ashland, Virginia",Ashland,VA,51
+-84.392477,33.799445,103,ATL,"Atlanta, Georgia",Atlanta,GA,13
+-85.832145,33.649112,427,ATN,"Anniston, Alabama",Anniston,AL,1
+-87.492747,31.024229,520,ATR,"Artmore, Alabama",Artmore,AL,1
+-97.75694,30.269449,199,AUS,"Austin, Texas",Austin,TX,48
+-76.615688,39.307302,8,BAL,"Baltimore (Penn Station), Maryland",Baltimore,MD,24
+-86.111646,42.314519,446,BAM,"Bangor, Michigan",Bangor,MI,26
+-117.025435,34.90482,465,BAR,"Barstow (Amtrak), California",Barstow,CA,6
+-89.333338,30.3142,521,BAS,"Bay St. Louis, Mississippi",Bay St. Louis,MS,28
+-71.075828,42.347317,17,BBY,"Boston (Back Bay), Massachusetts",Boston,MA,25
+-77.29879,38.797271,391,BCV,"Burke Centre, VA",Burke Centre,VA,51
+-122.511255,48.720263,146,BEL,"Bellingham, Washington",Bellingham,WA,53
+-110.296904,31.968758,487,BEN,"Benson, Arizona",Benson,AZ,4
+-72.765274,41.635595,269,BER,"Berlin, Connecticut",Berlin,CT,9
+-119.00821,35.37214,23,BFD,"Bakersfield, California",Bakersfield,CA,6
+-78.873748,42.878449,184,BFX,"Buffalo (Exchange St), New York",Buffalo- Exchange St.,NY,36
+-86.806614,33.512801,169,BHM,"Birmingham, Alabama",Birmingham,AL,1
+-88.885375,30.408387,522,BIX,"Biloxi, Mississippi",Biloxi,MS,28
+-122.300707,37.867254,67,BKY,"Berkeley, California",Berkeley,CA,6
+-72.444597,43.13654,437,BLF,"Bellows Falls, Vermont",Bellows Falls,VT,50
+-94.127367,30.076458,464,BMT,"Beaumont, Texas",Beaumont,TX,48
+-79.434531,36.094225,227,BNC,"Burlington, North Carolina",Burlington,NC,37
+-121.46873,45.71502,453,BNG,"Bingen-White Salmon, Washington",Bingen-White Salmon,WA,53
+-88.984306,40.50901,46,BNL,"Bloomington-Normal, Illinois",Bloomington-Normal,IL,17
+-71.061122,42.366235,26,BON,"Boston (North Station), Massachusetts",Boston,MA,25
+-71.055304,42.352311,5,BOS,"Boston (South Station), Massachusetts",Boston,MA,25
+-72.556497,42.850849,270,BRA,"Brattleboro, Vermont",Brattleboro,VT,50
+-90.44107,31.582961,440,BRH,"Brookhaven, Mississippi",Brookhaven,MS,28
+-69.965494,43.911245,216,BRK,Visitor's Center,Brunswick,ME,23
+-91.101951,40.805788,351,BRL,"Burlington, Iowa",Burlington,IA,19
+-113.013151,48.534067,500,BRO,"Browning, Montana",Browning,MT,30
+-73.187539,41.178006,100,BRP,"Bridgeport, Connecticut",Bridgeport,CT,9
+-85.187825,42.318453,181,BTL,"Battle Creek, Michigan",Battle Creek,MI,26
+-78.726584,42.907017,85,BUF,"Buffalo (Depew), New York",Buffalo-Depew,NY,36
+-118.353767,34.193072,127,BUR,"Burbank (Airport), California",Burbank Bob Hope Airport,CA,6
+-76.6943,39.192362,13,BWI,"BWI Rail Station at Thurgood Marshall Airport, Mar",BWI Marshall Airport,MD,24
+-84.551799,41.480319,403,BYN,"Bryan, Ohio",Bryan,OH,39
+-80.62519,34.248157,461,CAM,"Camden, South Carolina",Camden,SC,45
+-97.382333,32.349743,448,CBR,"Cleburne, Texas",Cleburne,TX,48
+-89.012609,43.340611,290,CBS,"Columbus, Wisconsin",Columbus,WI,55
+-117.35073,33.160989,376,CBV,"Carlsbad Village, CA",Carlsbad Village,CA,6
+-89.216628,37.724235,91,CDL,"Carbondale, Illinois",Carbondale,IL,17
+-89.136118,38.527531,243,CEN,"Centralia, Illinois",Centralia,IL,17
+-87.639443,41.878684,4,CHI,"Chicago (Union Station), Illinois",Chicago,IL,17
+-88.241366,40.115843,61,CHM,"Champaign-Urbana, Illlinois",Champaign-Urbana,IL,17
+-79.998002,32.874866,124,CHS,"Charleston, South Carolina",Charleston,SC,45
+-81.638494,38.346368,344,CHW,"Charleston, West Virginia",Charleston,WV,54
+-121.845861,39.723259,301,CIC,"Chico, California",Chico,CA,6
+-84.537061,39.109927,317,CIN,"Cincinnati, Ohio",Cincinnati,OH,39
+-85.539885,30.79425,523,CIP,"Chipley, Florida",Chipley,FL,12
+-72.377644,43.36833,478,CLA,"Claremont, New Hampshire",Claremont,NH,33
+-81.04049,33.994297,195,CLB,"Columbia, South Carolina",Columbia,SC,45
+-81.696172,41.505787,151,CLE,"Cleveland, Ohio",Cleveland,OH,39
+-79.827363,37.814521,480,CLF,"Clifton Forge, Virginia",Clifton Forge,VA,51
+-77.993421,38.47236,280,CLP,"Culpeper, Virginia",Culpeper,VA,51
+-80.822812,35.241403,55,CLT,"Charlotte, North Carolina",Charlotte,NC,37
+-119.034114,34.215933,155,CML,"Camarillo, California (Trains)",Camarillo,CA,6
+-121.781594,43.216784,334,CMO,"Chemult, Oregon",Chemult,OR,41
+-73.171337,43.613382,438,CNV,"Castleton, VT",Castleton,VT,50
+-119.55705,36.098516,202,COC,"Corcoran, California",Corcoran,CA,6
+-85.13338,39.645969,513,COI,"Connersville, Indiana",Connersville,IN,18
+-75.820929,39.985688,277,COT,"Coatesville, Pennsylvania",Coatesville,PA,42
+-79.592813,40.020282,421,COV,"Connellsville, Pennsylvania",Connellsville,PA,42
+-120.952913,39.098874,388,COX,"Colfax, California",Colfax,CA,6
+-119.522975,34.39678,198,CPN,"Carpinteria, California",Carpinteria,CA,6
+-86.899187,40.044705,405,CRF,"Crawfordsville (Amtrak), Indiana",Crawfordsville,IN,18
+-94.361617,41.05692,447,CRN,"Creston, Iowa",Creston,IA,19
+-73.882394,41.189903,159,CRT,"Croton Harmon, New York",Croton-Harmon,NY,36
+-89.889276,39.279295,338,CRV,"Carlinville, Illinois",Carlinville,IL,17
+-82.832501,34.691115,466,CSN,"Clemson, South Carolina",Clemson,SC,45
+-86.55855,30.764235,524,CSV,"Crestview, Florida",Crestview,FL,12
+-122.953062,46.71747,221,CTL,"Centralia, Washington",Centralia,WA,53
+-78.758,39.650628,322,CUM,"Cumberland, Maryland",Cumberland,MD,24
+-112.331584,48.638364,475,CUT,"Cut Bank, Montana",Cut Bank,MT,30
+-78.491684,38.031484,73,CVS,"Charlottesville, Virginia",Charlottesville,VA,51
+-74.952187,40.071663,472,CWH,"Cornwells Heights, Pennsylvania",Cornwells Heights,PA,42
+-118.599417,34.253205,125,CWT,"Chatsworth, California",Chatsworth,CA,6
+-78.782246,35.788294,98,CYN,"Cary, North Carolina",Cary,NC,37
+-96.807235,32.776094,171,DAL,"Dallas, Texas",Dallas,TX,48
+-79.383968,36.58409,378,DAN,"Danville, Virginia",Danville,VA,51
+-121.737707,38.543562,29,DAV,"Davis, California",Davis,CA,6
+-100.016961,37.752306,426,DDG,"Dodge City, Kansas",Dodge City,KS,20
+-107.754346,32.27177,503,DEM,"Deming, New Mexico",Deming,NM,35
+-104.999929,39.752959,72,DEN,"Denver, Colorado",Denver,CO,8
+-83.235311,42.307167,117,DER,"Dearborn, Michigan",Dearborn,MI,26
+-83.072397,42.368097,147,DET,"Detroit, Michigan",Detroit,MI,26
+-80.122147,26.317069,225,DFB,"Deerfield Beach, Florida",Deerfield Beach,FL,12
+-70.936013,43.139328,121,DHM,"Durham, New Hampshire",Durham,NH,33
+-79.372301,34.417647,369,DIL,"Dillon, South Carolina",Dillon,SC,45
+-80.091154,26.454021,300,DLB,"Delray Beach, Florida",Delray Beach,FL,12
+-81.352477,29.017849,232,DLD,"Deland, Florida",DeLand,FL,12
+-95.845998,46.819692,425,DLK,"Detroit Lakes, Minnesota",Detroit Lakes,MN,27
+-78.906299,35.997347,109,DNC,"Durham, North Carolina",Durham,NC,37
+-81.143635,33.326184,460,DNK,"Denmark, South Carolina",Denmark,SC,45
+-86.109041,41.980941,444,DOA,"Dowagiac, Michigan",Dowagiac,MI,26
+-70.878361,43.197968,143,DOV,"Dover, New Hampshire",Dover,NH,33
+-75.710775,40.002193,104,DOW,"Downingtown, Pennsylvania",Downingtown,PA,42
+-89.240254,38.012328,355,DQN,"Du Quoin, Illinois",Du Quoin,IL,17
+-83.98232,42.909495,308,DRD,"Durand, Michigan",Durand,MI,26
+-100.902662,29.362202,490,DRT,"Del Rio, Texas",Del Rio,TX,48
+-122.270587,41.211127,400,DUN,"Dunsmuir (Amtrak Station), California",Dunsmuir,CA,6
+-98.861372,48.110468,441,DVL,"Devils Lake, North Dakota",Devils Lake,ND,38
+-88.430707,41.089854,349,DWT,"Dwight, Illinois",Dwight,IL,17
+-87.518076,41.515413,467,DYE,"Dyer, Indiana",Dyer,IN,18
+-122.384141,47.811081,201,EDM,"Edmonds, Washington",Edmonds,WA,53
+-88.54711,39.117059,220,EFG,"Effingham, Illinois",Effingham,IL,17
+-85.971848,41.680748,242,EKH,"Elkhart, Indiana",Elkhart,IN,18
+-115.75053,40.836483,371,ELK,"Elko, Nevada",Elko,NV,32
+-106.495644,31.757346,286,ELP,"El Paso, Texas",El Paso,TX,48
+-76.612234,40.147028,88,ELT,"Elizabethtown, Pennsylvania",Elizabethtown,PA,42
+-82.096685,41.370033,398,ELY,"Elyria, Ohio",Elyria,OH,39
+-122.291615,37.840474,20,EMY,"Emeryville, California",Emeryville,CA,6
+-117.293204,33.047109,370,ENC,"Encinitas, CA",Encinitas,CA,6
+-119.549267,47.320948,459,EPH,"Ephrata, Washington",Ephrata,WA,53
+-80.082444,42.120847,268,ERI,"Erie, Pennsylvania",Erie,PA,42
+-113.610942,48.275543,471,ESM,"Essex, Montana",Essex,MT,30
+-73.110277,44.492466,251,ESX,"Essex Junction, Vermont",Essex Junction-Burlington,VT,50
+-123.092361,44.055043,96,EUG,"Eugene, Oregon",Eugene,OR,41
+-122.197858,47.975401,172,EVR,"Everett, Washington",Everett,WA,53
+-74.18229,40.696618,70,EWR,"Newark Liberty International Airport, New Jersey",Newark Liberty Airport,NJ,34
+-70.9587,42.98102,102,EXR,"Exeter, New Hampshire",Exeter,NH,33
+-75.621713,40.019291,75,EXT,"Exton, Pennsylvania",Exton,PA,42
+-96.785372,46.880982,238,FAR,"Fargo, North Dakota",Fargo,ND,38
+-78.884788,35.054993,142,FAY,"Fayetteville, North Carolina",Fayetteville,NC,37
+-77.457203,38.298413,133,FBG,"Fredericksburg, Virginia",Fredericksburg,VA,51
+-73.58055,43.269603,340,FED,"Fort Edward-Glens Falls, New York",Fort Edward-Glens Falls,NY,36
+-111.648871,35.197374,177,FLG,"Flagstaff, Arizona",Flagstaff,AZ,4
+-83.651728,43.015425,207,FLN,"Flint, Michigan",Flint,MI,26
+-79.757056,34.199157,157,FLO,"Florence, South Carolina",Florence,SC,45
+-91.336983,40.622591,385,FMD,"Fort Madison, Iowa",Fort Madison,IA,19
+-103.802818,40.247169,457,FMG,"Fort Morgan, Colorado",Fort Morgan,CO,8
+-122.007496,37.559093,175,FMT,"Fremont (Trains, Capitol Buses), California",Fremont,CA,6
+-119.782926,36.738457,31,FNO,"Fresno, California",Fresno,CA,6
+-71.420033,42.275993,491,FRA,"Framingham, Massachusetts",Framingham,MA,25
+-70.102358,43.855035,324,FRE,"Freeport, ME",Freeport,ME,23
+-73.389681,43.853788,484,FTC,"Ticonderoga, New York",Ticonderoga,NY,36
+-80.17,26.119256,170,FTL,"Fort Lauderdale, Florida",Fort Lauderdale,FL,12
+-88.888772,36.525704,452,FTN,"Fulton, Kentucky",Fulton,KY,21
+-97.326673,32.752563,89,FTW,"Fort Worth, Texas",Fort Worth,TX,48
+-117.922849,33.868969,39,FUL,"Fullerton, California",Fullerton,CA,6
+-121.967003,37.406778,65,GAC,"Santa Clara (Great America), California",Santa Clara- Great American,CA,6
+-81.162366,35.269186,504,GAS,"Gastonia, North Carolina",Gastonia,NC,37
+-90.364106,40.944678,92,GBB,"Galesburg, Illinois",Galesburg,IL,17
+-100.873256,37.964365,373,GCK,"Garden City, Kansas",Garden City,KS,20
+-118.258868,34.123706,158,GDL,"Glendale, California",Glendale,CA,6
+-72.600765,42.585458,402,GFD,"Greenfield, MA",Greenfield,MA,25
+-97.110835,47.917522,291,GFK,"Grand Forks, North Dakota",Grand Forks,ND,38
+-106.636188,48.194854,430,GGW,"Glasgow, Montana",Glasgow,MT,30
+-108.569929,39.064375,196,GJT,"Grand Junction, Colorado",Grand Junction,CO,8
+-97.140896,33.625159,387,GLE,"Gainesville, Texas",Gainesville,TX,48
+-87.998055,40.752547,476,GLM,"Gilman, Illinois",Gilman,IL,17
+-87.805562,42.075038,136,GLN,"Glenview, Illinois",Glenview,IL,17
+-108.740548,35.529176,275,GLP,"Gallup, New Mexico",Gallup,NM,35
+-79.546893,40.304986,297,GNB,"Greensburg, Pennsylvania",Greensburg,PA,42
+-83.819694,34.288897,420,GNS,"Gainesville, Georgia",Gainesville,GA,13
+-113.219523,48.442333,294,GPK,"East Glacier Park, Montana",East Glacier Park,MT,30
+-105.935503,40.084188,433,GRA,"Granby, Colorado",Granby,CO,8
+-104.6885,40.424,525,GRE,"Greeley, Colorado",Greeley,CO,8
+-110.165228,38.992039,474,GRI,"Green River, Utah",Green River,UT,49
+-79.78708,36.069797,82,GRO,"Greensboro, North Carolina",Greensboro,NC,37
+-85.672447,42.955788,182,GRR,"Grand Rapids, Michigan",Grand Rapids,MI,26
+-82.413486,34.858256,316,GRV,"Greenville, South Carolina",Greenville,SC,45
+-107.323218,39.547903,156,GSC,"Glenwood Springs, Colorado",Glenwood Springs,CO,8
+-119.843092,34.437729,106,GTA,"Goleta, California",Goleta,CA,6
+-120.57341,34.962927,310,GUA,"Guadalupe, California",Guadalupe,CA,6
+-120.629266,35.12126,250,GVB,"Grover Beach, California",Grover Beach,CA,6
+-90.176454,33.517159,282,GWD,"Greenwood, Mississippi",Greenwood,MS,28
+-79.699218,34.883663,431,HAM,"Hamlet, North Carolina",Hamlet,NC,37
+-76.878256,40.26205,22,HAR,"Harrisburg, Pennsylvania",Harrisburg,PA,42
+-98.387534,40.584276,419,HAS,"Hastings, Nebraska",Hastings,NE,31
+-109.678352,48.554465,319,HAV,"Havre, Montana",Havre,MT,30
+-122.099277,37.665997,150,HAY,"Hayward, California",Hayward,CA,6
+-90.394347,31.86132,501,HAZ,"Hazlehurst, Mississippi",Hazlehurst,MS,28
+-89.286463,31.326921,346,HBG,"Hattiesburg, Mississippi",Hattiesburg,MS,28
+-91.432558,38.707283,226,HEM,"Hermann, Missouri",Hermann,MO,29
+-110.853894,39.684036,486,HER,"Helper, Utah",Helper,UT,49
+-72.681314,41.768761,71,HFD,"Hartford, Connecticut",Hartford,CT,9
+-77.731078,39.324452,374,HFY,"Harpers Ferry, West Virginia",Harpers Ferry,WV,54
+-78.01178,40.483665,397,HGD,"Huntingdon, Pennsylvania",Huntingdon,PA,42
+-71.086375,42.773297,160,HHL,"Haverhill, Massachusetts",Haverhill,MA,25
+-80.892232,37.675037,375,HIN,"Hinton, West Virginia",Hinton,WV,54
+-99.371241,40.435926,485,HLD,"Holdrege, Nebraska",Holdrege,NE,31
+-72.602309,42.204156,508,HLK,"Holyoke, Massachusetts",Holyoke,MA,25
+-90.462169,30.50718,312,HMD,"Hammond, Louisiana",Hammond,LA,22
+-87.506511,41.691155,401,HMI,"Hammond-Whiting, Indiana",Hammond-Whiting,IN,18
+-87.668685,41.562446,188,HMW,"Homewood, Illinois",Homewood,IL,17
+-119.651816,36.326078,52,HNF,"Hanford, California",Hanford,CA,6
+-80.167884,26.011641,222,HOL,"Hollywood, Florida",Hollywood,FL,12
+-86.096553,42.791096,191,HOM,"Holland, Michigan",Holland,MI,26
+-93.592247,33.668913,498,HOP,"Hope, AR",Hope,AR,5
+-95.367526,29.767245,249,HOS,"Houston, Texas",Houston,TX,48
+-80.006097,35.957128,194,HPT,"High Point, North Carolina",High Point,NC,37
+-73.797729,42.253891,49,HUD,"Hudson, New York",Hudson,NY,36
+-82.439735,38.41582,332,HUN,"Huntington, West Virginia",Huntington,WV,54
+-97.931522,38.055712,432,HUT,"Hutchinson, Kansas",Hutchinson,KS,20
+-94.429711,39.086917,362,IDP,"Independence, Missouri",Independence,MO,29
+-86.160423,39.761984,200,IND,"Indianapolis, Indiana",Indianapolis,IN,18
+-117.733695,33.656771,33,IRV,"Irvine, California",Irvine,CA,6
+-90.190936,32.300808,153,JAN,"Jackson, Mississippi",Jackson,MS,28
+-81.723893,30.365601,112,JAX,"Jacksonville, Florida",Jacksonville,FL,12
+-92.169906,38.57887,178,JEF,"Jefferson City, Missouri",Jefferson City,MO,29
+-88.078766,41.52524,131,JOL,"Joliet, Illinois",Joliet,IL,17
+-81.882173,31.605589,339,JSP,"Jesup, Georgia",Jesup,GA,13
+-78.921996,40.329689,233,JST,"Johnstown, Pennsylvania",Johnstown,PA,42
+-84.39967,42.248113,231,JXN,"Jackson, Michigan",Jackson,MI,26
+-85.584018,42.295255,83,KAL,"Kalamazoo, Michigan",Kalamazoo,MI,26
+-80.624928,35.496172,255,KAN,"Kannapolis, North Carolina",Kannapolis,NC,37
+-94.585129,39.084576,66,KCY,"Kansas City, Missouri",Kansas City,MO,29
+-89.927544,41.245765,262,KEE,"Kewanee, Illinois",Kewanee,IL,17
+-122.913016,46.142264,197,KEL,"Kelso-Longview, Washington",Kelso-Longview,WA,53
+-121.771952,42.225509,193,KFS,"Klamath Falls, Oregon",Klamath Falls,OR,41
+-71.560597,41.483959,60,KIN,"West Kingston, Rhode Island",Kingston,RI,44
+-81.404234,28.293835,185,KIS,"Kissimmee, Florida",Kissimmee,FL,12
+-87.86543,41.119259,248,KKI,"Kankakee, Illinois",Kankakee,IL,17
+-114.052816,35.188279,342,KNG,"Kingman, Arizona",Kingman,AZ,4
+-79.829026,33.663882,311,KTR,"Kingstree, South Carolina",Kingstree,SC,45
+-90.406761,38.581067,138,KWD,"Kirkwood, Missouri",Kirkwood,MO,29
+-79.385083,40.317405,434,LAB,"Latrobe, Pennsylvania",Latrobe,PA,42
+-86.895901,40.419347,257,LAF,"Lafayette, Indiana",Lafayette,IN,18
+-87.871545,41.815634,314,LAG,"La Grange, Illinois",LaGrange Road,IL,17
+-103.543576,37.988249,381,LAJ,"La Junta, Colorado",La Junta,CO,8
+-81.951874,28.045603,396,LAK,"Lakeland, Florida",Lakeland,FL,12
+-92.493384,40.02922,321,LAP,"La Plata, Missouri",La Plata,MO,29
+-89.127933,31.692168,455,LAU,"Laurel, Mississippi",Laurel,MS,28
+-118.236778,34.056177,6,LAX,"Los Angeles, California",Los Angeles,CA,6
+-93.217037,30.238126,458,LCH,"Lake Charles, Louisiana",Lake Charles,LA,22
+-89.363699,40.147855,244,LCN,"Lincoln, Illinois",Lincoln,IL,17
+-108.707025,32.35007,514,LDB,"Lordsburg, New Mexico",Lordsburg,NM,35
+-94.377972,38.912623,217,LEE,"Lees Summit, Missouri",Lees Summit,MO,29
+-77.580047,40.588309,347,LEW,"Lewistown, Pennsylvania",Lewistown,PA,42
+-92.014519,30.226548,383,LFT,"Lafayette, Louisiana",Lafayette,LA,22
+-115.54889,48.394842,423,LIB,"Libby, Montana",Libby,MT,30
+-81.951874,28.045603,287,LKL,"Lakeland, Florida",Lakeland,FL,12
+-102.618574,38.089623,492,LMR,"Lamar, Colorado",Lamar,CO,8
+-105.879968,35.480973,325,LMY,"Lamy, New Mexico",Lamy,NM,35
+-76.307714,40.054181,21,LNC,"Lancaster, Pennsylvania",Lancaster,PA,42
+-96.71317,40.815871,284,LNK,"Lincoln, Nebraska",Lincoln,NE,31
+-84.495962,42.718731,118,LNS,"East Lansing, Michigan",East Lansing,MI,26
+-121.271887,38.133201,356,LOD,"Lodi, California",Lodi,CA,6
+-77.220942,38.708143,44,LOR,"Lorton (Auto Train), Virginia",Lorton,VA,51
+-83.306154,43.04952,348,LPE,"Lapeer, Michigan",Lapeer,MI,26
+-120.605001,34.682704,363,LPS,"Lompoc-Surf, California",Lompoc-Surf,CA,6
+-95.230539,38.971166,357,LRC,"Lawrence, Kansas",Lawrence,KS,20
+-92.286785,34.750298,258,LRK,"Little Rock, Arkansas",Little Rock,AR,5
+-91.247298,43.833155,219,LSE,"LaCrosse, Wisconsin",La Crosse,WI,55
+-105.212779,35.593432,428,LSV,"Las Vegas, New Mexico",Las Vegas,NM,35
+-94.728322,32.494032,210,LVW,"Longview, Texas",Longview,TX,48
+-120.643965,47.606493,364,LWA,"Leavenworth, WA",Leavenworth,WA,53
+-79.156934,37.406439,101,LYH,"Lynchburg, Virginia",Lynchburg,VA,51
+-90.67094,40.461212,116,MAC,"Macomb, Illinois",Macomb,IL,17
+-107.872242,48.360477,449,MAL,"Malta, Montana",Malta,MT,30
+-88.376045,39.48273,187,MAT,"Mattoon, Illinois",Mattoon,IL,17
+-83.771074,38.652148,483,MAY,"Maysville,  Kentucky",Maysville,KY,21
+-90.451334,31.244467,406,MCB,"McComb, Mississippi",McComb,MS,28
+-120.476805,37.307183,79,MCD,"Merced, California",Merced,CA,6
+-97.404756,31.443352,415,MCG,"McGregor, Texas",McGregor,TX,48
+-86.905385,41.721103,456,MCI,"Michigan City, Indiana",Michigan City,IN,18
+-100.625792,40.197634,469,MCK,"McCook, Nebraska",McCook,NE,31
+-72.800678,41.539385,259,MDN,"Meriden, Connecticut",Meriden,CT,9
+-83.413218,30.459878,526,MDO,"Madison, Florida",Madison,FL,12
+-120.07498,37.022471,214,MDR,"Madera, California",Madera,CA,6
+-89.11792,41.549584,228,MDT,"Mendota, Illinois",Mendota,IL,17
+-88.696568,32.364166,337,MEI,"Meridian, Mississippi",Meridian,MS,28
+-90.059109,35.132458,110,MEM,"Memphis, Tennessee",Memphis,TN,47
+-74.329583,40.568056,30,MET,"Metropark (Iselin), New Jersey",Metropark,NJ,34
+-94.366995,32.551549,361,MHL,"Marshall, Texas",Marshall,TX,48
+-80.257759,25.849554,120,MIA,"Miami, Florida",Miami,FL,12
+-76.730943,40.192569,115,MID,"Middletown, Pennsylvania",Middletown,PA,42
+-95.4891,32.662049,395,MIN,"Mineola, Texas",Mineola,TX,48
+-76.502641,40.10896,145,MJY,"Mount Joy, Pennsylvania",Mount Joy,PA,42
+-87.924359,42.940583,62,MKA,"Milwaukee (General Mitchell Intl Airport), Wiscons",Milwaukee Mitchell Airport,WI,55
+-87.917104,43.034518,18,MKE,"Milwaukee, Wisconsin",Milwaukee,WI,55
+-81.32403,38.180743,512,MNG,"Montgomery, West Virginia",Montgomery,WV,54
+-120.912913,37.668951,81,MOD,"Modesto, California",Modesto,CA,6
+-88.047508,30.708108,527,MOE,"Mobile, Alabama",Mobile,AL,1
+-101.298557,48.236083,206,MOT,"Minot, North Dakota",Minot,ND,38
+-118.878059,34.28476,260,MPK,"Moorpark, California",Moorpark,CA,6
+-72.606394,44.255749,368,MPR,"Montpelier, Vermont",Montpelier-Berlin,VT,50
+-77.961014,39.458661,329,MRB,"Martinsburg, West Virginia",Martinsburg,WV,54
+-112.047137,33.056284,327,MRC,"Maricopa, Arizona",Maricopa,AZ,4
+-93.085355,44.947661,94,MSP,"St. Paul/Minneapolis, Minnesota",St. Paul-Minneapolis,MN,27
+-77.472577,38.750084,237,MSS,"Manassas, Virginia",Manassas,VA,51
+-91.550772,40.971179,298,MTP,"Mt. Pleasant, Iowa",Mount Pleasant,IA,19
+-122.138784,38.018921,32,MTZ,"Martinez, California",Martinez,CA,6
+-92.814018,34.365484,495,MVN,"Malvern, Arkansas",Malvern,AR,5
+-122.334738,48.41847,256,MVW,"Mount Vernon, Washington",Mount Vernon,WA,53
+-71.963093,41.350934,223,MYS,"Mystic, Connecticut",Mystic,CT,9
+-74.446265,40.496522,365,NBK,"New Brunswick, New Jersey",New Brunswick,NJ,34
+-89.262264,36.112711,454,NBN,"Newbern-Dyersburg, Tennessee",Newbern-Dyersburg,TN,47
+-86.745782,41.796656,245,NBU,"New Buffalo, MI",New Buffalo,MI,26
+-76.871494,38.948098,56,NCR,"New Carrollton, Maryland",New Carrollton,MD,24
+-114.604635,34.839964,360,NDL,"Needles, California",Needles,CA,6
+-97.344886,38.046976,295,NEW,"Newton, Kansas",Newton,KS,20
+-76.276195,36.843509,162,NFK,"Norfolk, Virginia",Norfolk,VA,51
+-79.031865,43.113548,209,NFL,"Niagara Falls, New York, United States",Niagara Falls,NY,36
+-79.063291,43.108736,292,NFS,VIA Rail Canada Station,Niagara Falls,ND,38
+-72.626379,42.318858,261,NHT,"Northampton, MA",Northampton,MA,25
+-72.92667,41.297714,16,NHV,"New Haven, Connecticut",New Haven,CT,9
+-91.823809,30.008415,493,NIB,"New Iberia, Louisiana",New Iberia,LA,22
+-72.093225,41.354267,63,NLC,"New London, Connecticut",New London,CT,9
+-86.252372,41.837412,264,NLS,"Niles, Michigan",Niles,MI,26
+-90.078291,29.946085,54,NOL,Union Passenger Terminal,New Orleans,LA,22
+-97.443013,35.219963,320,NOR,"Norman, Oklahoma",Norman,OK,40
+-76.45197,37.022731,86,NPN,"Newport News, Virginia",Newport News,VA,51
+-88.145497,41.779514,154,NPV,"Naperville, Illinois",Naperville,IL,17
+-75.753513,39.669686,303,NRK,"Newark, Delaware",Newark,DE,10
+-73.784329,40.911451,97,NRO,"New Rochelle, New York",New Rochelle,NY,36
+-74.16475,40.734706,14,NWK,"Newark (Penn Station), New Jersey",Newark,NJ,34
+-73.994459,40.750327,1,NYP,"New York (Penn Station), New York",New York,NY,36
+-122.198147,37.752499,111,OAC,"Coliseum/Oakland Airport, Oakland, California",Oakland - Coliseum Airport,CA,6
+-97.512749,35.46549,161,OKC,"Oklahoma City, Oklahoma",Oklahoma City,OK,40
+-80.830812,27.251867,442,OKE,"Okeechobee, Florida",Okeechobee,FL,12
+-122.271667,37.793866,35,OKJ,"Oakland, California",Oakland - Jack London Square,CA,6
+-117.200073,32.755266,42,OLT,"San Diego (Old Town), California",San Diego - Old Town,CA,6
+-122.794059,46.991273,122,OLW,"Olympia/Lacey, Washington",Olympia-Lacey,WA,53
+-95.92865,41.249828,205,OMA,"Omaha, Nebraska",Omaha,NE,31
+-117.649569,34.061672,417,ONA,"Ontario, California",Ontario,CA,6
+-70.376225,43.514326,274,ORB,"Old Orchard Beach, Maine (Seasonal)",Old Orchard Beach,ME,23
+-122.595925,45.366146,283,ORC,"Oregon City, Oregon",Oregon City,OR,41
+-81.381516,28.525926,74,ORL,"Orlando, Florida",Orlando,FL,12
+-72.376818,41.30039,123,OSB,"Old Saybrook, Connecticut",Old Saybrook,CT,9
+-93.764894,41.037116,271,OSC,"Osceola, Iowa",Osceola,IA,19
+-117.37943,33.192515,38,OSD,"Oceanside, California",Oceanside,CA,6
+-92.414929,41.018815,313,OTM,"Ottumwa, Iowa",Ottumwa,IA,19
+-119.175978,34.199241,99,OXN,"Oxnard, California",Oxnard,CA,6
+-81.640471,29.649734,309,PAK,"Palatka, Florida",Palatka,FL,12
+-75.48376,40.042754,51,PAO,"Paoli, Pennsylvania",Paoli,PA,42
+-75.922123,39.95918,152,PAR,"Parkesburg, Pennsylvania",Parkesburg,PA,42
+-90.393341,36.753995,429,PBF,"Poplar Bluff, Missouri",Poplar Bluff,MO,29
+-89.466815,41.385191,190,PCT,"Princeton, Illinois",Princeton,IL,17
+-122.676806,45.528724,19,PDX,"Portland, Oregon",Portland,OR,41
+-79.992307,40.444738,69,PGH,"Pittsburgh, Pennsylvania",Pittsburgh,PA,42
+-75.181041,39.955615,3,PHL,"Philadelphia (30th St), Pennsylvania",Philadelphia,PA,42
+-75.155114,39.99678,507,PHN,"Philadelphia (North), Pennsylvania",North Philadelphia,PA,42
+-89.68026,30.524606,479,PIC,"Picayune, Mississippi",Picayune,MS,28
+-73.2538,42.451558,366,PIT,"Pittsfield, Massachusetts",Pittsfield,MA,25
+-74.623976,40.31585,168,PJC,"Princeton Junction, New Jersey",Princeton Junction,NJ,34
+-73.446284,44.696728,299,PLB,"Plattsburgh, New York",Plattsburgh,NY,36
+-88.538272,41.662384,386,PLO,"Plano, Illinois",Plano,IL,17
+-87.205038,30.417749,528,PNS,"Pensacola, Florida",Pensacola,FL,12
+-83.292325,42.632771,304,PNT,"Pontiac, Michigan",Pontiac,MI,26
+-89.467627,43.547079,367,POG,"Portage, Wisconsin",Portage,WI,55
+-73.458753,44.042297,481,POH,"Port Henry, New York",Port Henry,NY,36
+-117.318743,33.109248,380,POI,"Carlsbad Poinsettia, CA",Carlsbad Poinsettia,CA,6
+-88.636601,40.879652,279,PON,"Pontiac, Illinois",Pontiac,IL,17
+-70.291258,43.654097,58,POR,"Portland, Maine",Portland,ME,23
+-117.750621,34.059224,496,POS,"Pomona (Sunset Ltd), California",Pomona,CA,6
+-73.93749,41.707056,90,POU,"Poughkeepsie, New York",Poughkeepsie,NY,36
+-120.68786,35.622683,315,PRB,"Paso Robles, California",Paso Robles,CA,6
+-81.060694,37.856594,473,PRC,"Prince, West Virginia (Beckley)",Prince,WV,54
+-73.403536,44.524079,515,PRK,"Port Kent, New York",Port Kent,NY,36
+-111.664001,40.225957,411,PRO,"Provo, Utah",Provo,UT,49
+-119.087729,46.237012,230,PSC,"Pasco, Washington",Pasco,WA,53
+-116.547913,33.897491,470,PSN,"Palm Springs (Train), California",Palm Springs,CA,6
+-77.428794,37.241627,203,PTB,"Petersburg, Virginia",Petersburg,VA,51
+-82.443805,42.960419,247,PTH,"Port Huron, Michigan",Port Huron,MI,26
+-97.357416,35.012033,497,PUR,"Purcell, Oklahoma",Purcell,OK,40
+-71.413478,41.82949,10,PVD,"Providence, Rhode Island",Providence,RI,44
+-97.21846,34.741735,439,PVL,"Pauls Valley, Oklahoma",Pauls Valley,OK,40
+-77.293027,38.521882,254,QAN,"Quantico, Virginia",Quantico,VA,51
+-91.368525,39.957063,173,QCY,"Quincy, Illinois",Quincy,IL,17
+-104.437886,36.901072,265,RAT,"Raton, New Mexico",Raton,NM,35
+-122.39337,40.583595,326,RDD,"Redding (Amtrak Station), California",Redding,CA,6
+-92.537066,44.566214,358,RDW,"Red Wing, Minnesota",Red Wing,MN,27
+-87.155121,40.943281,488,REN,"Rensselaer, Indiana",Rensselaer,IN,18
+-78.645894,35.774923,64,RGH,"Raleigh, North Carolina",Raleigh,NC,37
+-73.951278,41.921346,50,RHI,"Rhinecliff, New York",Rhinecliff,NY,36
+-122.35413,37.936752,41,RIC,"Richmond, California",Richmond,CA,6
+-117.369988,33.97567,306,RIV,"Riverside, California",Riverside-Downtown,CA,6
+-77.145995,39.084547,410,RKV,"Rockville, Maryland",Rockville,MD,24
+-121.237299,38.791006,267,RLN,"Rocklin, California",Rocklin,CA,6
+-77.797855,35.938001,141,RMT,"Rocky Mount, North Carolina",Rocky Mount,NC,37
+-119.812123,39.528521,113,RNO,"Reno, Nevada",Reno,NV,32
+-77.608057,43.163411,78,ROC,"Rochester, New York",Rochester,NY,36
+-75.44996,43.199425,352,ROM,"Rome, New York",Rome,NY,36
+-83.14701,42.488439,218,ROY,"Royal Oak, Michigan",Royal Oak,MI,26
+-72.665459,43.922398,489,RPH,"Randolph, Vermont",Randolph,VT,50
+-73.371093,44.99487,506,RSP,"Rouses Point, New York",Rouses Point,NY,36
+-121.286286,38.750016,180,RSV,"Roseville, California",Roseville,CA,6
+-71.147894,42.210242,24,RTE,"Westwood, Route 128 Station, Massachusetts",Route 128,MA,25
+-88.159126,40.310905,408,RTL,"Rantoul, Illinois",Rantoul,IL,17
+-72.981538,43.605756,289,RUD,"Rutland, Vermont",Rutland,VT,50
+-99.997556,48.369846,443,RUG,"Rugby, North Dakota",Rugby,ND,38
+-77.429512,37.534209,167,RVM,"Richmond (Main St), Virginia",Richmond,VA,51
+-77.496943,37.617693,34,RVR,"Richmond (Staples Mill Rd), Virginia",Richmond,VA,51
+-73.086191,44.81236,462,SAB,"St. Albans, Vermont",St. Albans,VT,50
+-121.500704,38.584004,7,SAC,"Sacramento, California",Sacramento,CA,6
+-80.466323,35.667496,236,SAL,"Salisbury, North Carolina",Salisbury,NC,37
+-117.169576,32.716169,11,SAN,"San Diego (Downtown), California",San Diego,CA,6
+-70.449139,43.496191,163,SAO,"Saco, Maine",Saco,ME,23
+-73.810027,43.08281,189,SAR,"Saratoga Springs, New York",Saratoga Springs,NY,36
+-98.478143,29.41935,144,SAS,"San Antonio, Texas",San Antonio,TX,48
+-81.148264,32.083412,135,SAV,"Savannah, Georgia",Savannah,GA,13
+-119.692785,34.413718,36,SBA,"Santa Barbara, California",Santa Barbara,CA,6
+-81.434202,27.496632,266,SBG,"Sebring, Florida",Sebring,FL,12
+-111.856649,48.506748,330,SBY,"Shelby, Montana",Shelby,MT,30
+-121.936576,37.353219,165,SCC,University Station,Santa Clara University,CA,6
+-94.149093,45.567748,323,SCD,"St. Cloud, Minnesota",St. Cloud,MN,27
+-90.815246,29.746678,502,SCH,"Schriever, Louisiana",Schriever,LA,22
+-89.782565,30.278372,399,SDL,"Slidell, Louisiana",Slidell,LA,22
+-73.942887,42.814606,139,SDY,"Schenectady, New York",Schenectady,NY,36
+-122.330161,47.598445,15,SEA,"Seattle (Amtrak), Washington",Seattle,WA,53
+-93.228706,38.711604,343,SED,"Sedalia, Missouri",Sedalia,MO,29
+-81.291274,28.808544,45,SFA,"Sanford (Auto Train), Florida",Sanford,FL,12
+-118.695163,34.270204,164,SIM,"Simi Valley, California",Simi Valley,CA,6
+-121.902388,37.329933,47,SJC,"San Jose, California",San Jose,CA,6
+-86.484484,42.10908,307,SJM,"St. Joseph, Michigan",St. Joseph-Benton Harbor,MI,26
+-121.285632,37.945468,40,SKN,"Stockton (711-718), California",Stockton,CA,6
+-121.279,37.957038,183,SKT,"Stockton (ACE, 701-704), California",Stockton  - ACE Station,CA,6
+-82.717866,41.440671,345,SKY,"Sandusky, Ohio",Sandusky,OH,39
+-111.908349,40.761661,174,SLC,"Salt Lake City, Utah",Salt Lake City,UT,49
+-123.028331,44.932331,126,SLM,"Salem, Oregon",Salem,OR,41
+-120.654701,35.276434,84,SLO,"San Luis Obispo, California",San Luis Obispo,CA,6
+-97.941049,29.876571,382,SMC,"San Marcos, Texas",San Marcos,TX,48
+-87.809742,41.794912,328,SMT,"Summit, Illinois",Summit,IL,17
+-117.856607,33.751629,68,SNA,"Santa Ana, California",Santa Ana,CA,6
+-117.310659,34.104112,318,SNB,"San Bernardino (Amtrak Station), California",San Bernardino,CA,6
+-117.663813,33.501318,48,SNC,"San Juan Capistrano, California",San Juan Capistrano,CA,6
+-102.398746,30.139951,518,SND,"Sanderson, Texas",Sanderson,TX,48
+-117.619733,33.419645,278,SNP,"San Clemente Pier, California",San Clemente Pier,CA,6
+-121.656745,36.679145,240,SNS,"Salinas, California",Salinas,CA,6
+-86.287345,41.67836,241,SOB,"South Bend, Indiana",South Bend,IN,18
+-117.271135,32.992937,28,SOL,"Solana Beach, California",Solana Beach,CA,6
+-79.390303,35.175069,379,SOP,"Southern Pines, North Carolina",Southern Pines,NC,37
+-81.936917,34.953736,451,SPB,"Spartanburg, South Carolina",Spartanburg,SC,45
+-72.592905,42.105987,95,SPG,"Springfield, Massachusetts",Springfield,MA,25
+-89.651384,39.802323,59,SPI,"Springfield, Illinois",Springfield,IL,17
+-117.415455,47.65672,148,SPK,"Spokane, Washington",Spokane,WA,53
+-94.795331,46.354601,394,SPL,"Staples, Minnesota",Staples,MN,27
+-82.963751,38.721281,511,SPM,"South Shore-South Portsmouth, Kentucky",South Portsmouth,KY,21
+-116.545583,48.276234,372,SPT,"Sandpoint, Idaho",Sandpoint,ID,16
+-117.224892,32.902684,253,SRB,"Sorrento Valley, CA",Sorrento Valley,CA,6
+-78.280099,35.532786,302,SSM,"Selma, North Carolina",Selma-Smithfield,NC,37
+-79.071776,38.147639,390,STA,"Staunton, Virginia",Staunton,VA,51
+-90.203838,38.624461,37,STL,"St. Louis, Missouri",St. Louis,MO,29
+-73.54216,41.04713,27,STM,"Stamford, Connecticut",Stamford,CT,9
+-102.389379,48.319813,418,STN,"Stanley, North Dakota",Stanley,ND,38
+-122.349935,48.242638,422,STW,"Stanwood, WA",Stanwood,WA,53
+-122.041099,38.243401,57,SUI,"Suisun, California",Suisun-Fairfield,CA,6
+-87.9063,42.718292,105,SVT,"Sturtevant, Wisconsin",Sturtevant,WI,55
+-76.169244,43.076548,77,SYR,"Syracuse, New York",Syracuse,NY,36
+-122.420509,47.241894,80,TAC,"Tacoma, Washington",Tacoma,WA,53
+-97.407763,30.567667,412,TAY,"Taylor, Texas",Taylor,TX,48
+-83.331542,34.578456,477,TCA,"Toccoa, Georgia",Toccoa,GA,13
+-87.560228,33.193165,333,TCL,"Tuscaloosa, Alabama",Tuscaloosa,AL,1
+-81.078754,37.956986,517,THN,"Thurmond, West Virginia",Thurmond,WV,54
+-84.289348,30.432611,529,TLH,"Tallahassee, Florida",Tallahassee,FL,12
+-90.505331,43.986007,305,TOH,"Tomah, Wisconsin",Tomah,WI,55
+-83.541721,41.638345,137,TOL,"Toledo, Ohio",Toledo,OH,39
+-95.664916,39.051415,336,TOP,"Topeka, Kansas",Topeka,KS,20
+-82.450777,27.952492,87,TPA,"Tampa, Florida",Tampa,FL,12
+-97.345792,31.095883,276,TPL,"Temple, Texas",Temple,TX,48
+-74.75444,40.219011,25,TRE,"Trenton, New Jersey",Trenton,NJ,34
+-104.507981,37.172688,404,TRI,"Trinidad, Colorado",Trinidad,CO,8
+-120.798009,37.527229,208,TRK,"Turlock-Denair, California",Turlock-Denair,CA,6
+-83.191026,42.542555,229,TRM,"Troy, MI",Troy,MI,26
+-120.185387,39.327616,285,TRU,"Truckee, California",Truckee,CA,6
+-122.240254,47.461081,204,TUK,"Tukwila, Washington",Tukwila,WA,53
+-110.96677,32.222977,215,TUS,"Tucson, Arizona",Tucson,AZ,4
+-94.043082,33.420067,392,TXA,"Texarkana, Arkansas",Texarkana,AR,5
+-78.24047,40.667705,468,TYR,"Tyrone, Pennsylvania",Tyrone,PA,42
+-75.223434,43.103892,130,UCA,"Utica, New York",Utica,NY,36
+-122.686544,45.628901,93,VAN,"Vancouver, Washington, United States",Vancouver,WA,53
+-119.299918,34.276929,119,VEC,"Ventura, California",Ventura,CA,6
+-118.448206,34.211294,108,VNC,"Van Nuys (Amtrak), California",Van Nuys,CA,6
+-117.292956,34.5372,384,VRV,"Victorville, California",Victorville,CA,6
+-72.751806,44.335011,413,WAB,"Waterbury, Vermont",Waterbury-Stowe,VT,50
+-119.332309,35.594092,176,WAC,"Wasco, California",Wasco,CA,6
+-91.012717,38.561466,272,WAH,"Washington, Missouri",Washington,MO,29
+-93.7409,38.76275,293,WAR,"Warrensburg, Missouri",Warrensburg,MO,29
+-77.006422,38.896993,2,WAS,"Washington, District of Columbia",Washington,DC,11
+-76.708564,37.276414,129,WBG,"Williamsburg, Virginia",Williamsburg,VA,51
+-77.247852,38.658915,341,WDB,"Woodbridge, Virginia",Woodbridge,VA,51
+-89.777451,43.626509,288,WDL,"Wisconsin Dells, Wisconsin",Wisconsin Dells,WI,55
+-70.612192,43.320836,149,WEM,"Wells, Maine",Wells,ME,23
+-120.306552,47.421556,281,WEN,"Wenatchee, Washington",Wenatchee,WA,53
+-72.825221,41.456969,350,WFD,"Wallingford, Connecticut",Wallingford,CT,9
+-114.335575,48.413474,140,WFH,"Whitefish, Montana",Whitefish,MT,30
+-113.979164,48.496218,389,WGL,"West Glacier, Montana",West Glacier,MT,30
+-73.403207,43.554694,494,WHL,"Whitehall, New York",Whitehall,NY,36
+-120.966142,45.657669,505,WIH,"Wishram, Washington",Wishram,WA,53
+-75.551095,39.737263,12,WIL,"Wilmington, Delaware",Wilmington,DE,10
+-91.640073,44.044404,252,WIN,"Winona, Minnesota",Winona,MN,27
+-105.817388,39.947566,354,WIP,"Winter Park/Fraser, Colorado",Fraser-Winter Park,CO,8
+-77.908029,35.723135,132,WLN,"Wilson, North Carolina",Wilson,NC,37
+-110.694981,35.021666,436,WLO,"Winslow, Arizona",Winslow,AZ,4
+-71.82978,41.381081,166,WLY,"Westerly, Rhode Island",Westerly,RI,44
+-112.190106,35.25195,359,WMJ,"Williams Junction, Arizona",Williams Junction,AZ,4
+-72.642253,41.852013,353,WND,"Windsor, Connecticut",Windsor,CT,9
+-72.626101,41.913956,263,WNL,"Windsor Locks, Connecticut",Windsor Locks,CT,9
+-72.384958,43.479908,510,WNM,"Windsor, Vermont",Windsor-Mt. Ascutney,VT,50
+-117.73221,40.969044,445,WNN,"Winnemucca, Nevada",Winnemucca,NV,32
+-90.956766,36.06766,463,WNR,"Walnut Ridge, Arkansas",Walnut Ridge,AR,5
+-71.143823,42.517358,239,WOB,"Woburn, Massachusetts",Woburn,MA,25
+-71.794812,42.261478,393,WOR,"Worcester, Massachusetts",Worcester,MA,25
+-80.062184,26.712554,134,WPB,"West Palm Beach, Florida",West Palm Beach,FL,12
+-81.352009,28.597106,211,WPK,"Winter Park, Florida",Winter Park,FL,12
+-105.642736,48.091672,407,WPT,"Wolf Point, Montana",Wolf Point,MT,30
+-72.317272,43.647785,296,WRJ,"White River Jct., Vermont",White River Junction,VT,50
+-73.451773,44.187288,409,WSP,"Westport, New York",Westport,NY,36
+-80.304004,37.786443,414,WSS,"White Sulphur Springs, West Virginia",White Sulphur Springs,WV,54
+-81.734878,28.002146,235,WTH,"Winter Haven, Florida",Winter Haven,FL,12
+-85.024298,41.431816,246,WTI,"Waterloo, Indiana",Waterloo,IN,18
+-103.620926,48.143,213,WTN,"Williston, North Dakota",Williston,ND,38
+-90.41523,32.848477,450,YAZ,"Yazoo City, Mississippi",Yazoo City,MS,28
+-80.846901,32.688286,331,YEM,"Yemassee, South Carolina",Yemassee,SC,45
+-73.902263,40.935586,224,YNY,"Yonkers, New York",Yonkers,NY,36
+-114.615571,32.723139,435,YUM,"Yuma, Arizona",Yuma,AZ,4
